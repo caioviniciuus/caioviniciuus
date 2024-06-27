@@ -2,6 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=caioviniciuus)](https://github.com/ryo-ma/github-profile-trophy)
 
+
 ###
 
 <div align="center">
@@ -47,5 +48,3 @@
 <img src="https://raw.githubusercontent.com/caioviniciuus/caioviniciuus/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
